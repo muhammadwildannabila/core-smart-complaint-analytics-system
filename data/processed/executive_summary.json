@@ -1,0 +1,16 @@
+{
+    "total_complaints": 10000,
+    "resolution_rate": 47.79,
+    "sla_compliance": 38.68,
+    "critical_complaint_rate": 8.01,
+    "average_response_time_hours": 35.73,
+    "average_resolution_time_days": 6.39,
+    "top_complaint_category": "Road Infrastructure",
+    "top_department": "Dinas PUPR",
+    "government_response_status": "Critical Attention Required",
+    "recommendations": [
+        "Increase operational capacity to improve complaint resolution rates.",
+        "Strengthen SLA monitoring and response escalation procedures.",
+        "Optimize internal workflows to reduce response time."
+    ]
+}

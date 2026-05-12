@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Government%20Analytics-purple?style=for-the-badge)
 
-### 🟢 Core Project | Internship Project (DISKOMINFO Kota Batu) | 2026
+### 🟢 Core Project | Internship Project (DISKOMINFO Kota Batu) | 2025
 
 🔗 **Live Demo:** https://mwildannabila-core-smart-complaint-analytics-system.streamlit.app/
 
